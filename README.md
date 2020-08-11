@@ -12,21 +12,21 @@ Screenshot of the Game
 ------------
 
 - *Main menu*: 
-![Image of MainMenu](https://zupimages.net/viewer.php?id=20/33/axbz.jpg)
+![Image of MainMenu](https://zupimages.net/up/20/33/axbz.jpg)
 
 - *Versus Menu*
-![Image of VersusMenu](https://zupimages.net/viewer.php?id=20/33/9eie.jpg)
+![Image of VersusMenu](https://zupimages.net/up/20/33/9eie.jpg)
 
 - *Choose Character Menu*
-![Image of Choose Character Menu](https://zupimages.net/viewer.php?id=20/33/12mj.jpg)
+![Image of Choose Character Menu](https://zupimages.net/up/20/33/12mj.jpg)
 
 - *In Game*
-![Image of In Game](https://zupimages.net/viewer.php?id=20/33/jg99.jpg)
+![Image of In Game](https://zupimages.net/up/20/33/jg99.jpg)
 
 Future addition
 --------------
 
-- *Add a map for fight area*
+- *Add a map for fight area*s
 - *Add a training room for playing solo*
 - *Add some competence*
 
