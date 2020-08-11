@@ -54,10 +54,12 @@
      <Compile Include="Assets\Scripts\Combo.cs" />
      <Compile Include="Assets\Scripts\Ennemis.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\GameManagerTraining.cs" />
      <Compile Include="Assets\Scripts\HideLocalPlayer.cs" />
      <Compile Include="Assets\Scripts\HitCollider.cs" />
      <Compile Include="Assets\Scripts\Info.cs" />
      <Compile Include="Assets\Scripts\Load.cs" />
+     <Compile Include="Assets\Scripts\LoadTraining.cs" />
      <Compile Include="Assets\Scripts\Localization\LocalizationManager.cs" />
      <Compile Include="Assets\Scripts\Localization\LocalizationText.cs" />
      <Compile Include="Assets\Scripts\Locking.cs" />
@@ -102,6 +104,7 @@
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+     <Compile Include="Assets\TrainingManager.cs" />
      <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\AutoBlink.cs" />
      <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\CameraController.cs" />
      <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\FaceUpdate.cs" />

@@ -11,5 +11,7 @@
 {"key" :"[Tips]","value":"For playing with your friends, one must host the game, other join. The IP is localhost if you are on the same network else is the ip of the person who host the game,"},
 {"key" :"[Back]","value":"BACK"},
 {"key" :"[ChooseCharacter]","value":"CHOOSE YOUR CHARACTER"},
-{"key" :"[BackToMainMenu]","value":"BACK TO MAIN MENU"}
+{"key" :"[BackToMainMenu]","value":"BACK TO MAIN MENU"},
+{"key" :"[Play]","value":"PLAY"},
+{"key" :"[TipsTraining]","value":"It's a solo game mode for testing chan, their competence and mechanics of the game."}
 ]}

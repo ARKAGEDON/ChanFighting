@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
@@ -79,5 +80,9 @@ public class MainMenu : MonoBehaviour
      #else
          Application.Quit();
      #endif
+    }
+    public void TrainingPlay()
+    {
+        SceneManager.LoadScene("CharacterChoosingMenu");
     }
 }

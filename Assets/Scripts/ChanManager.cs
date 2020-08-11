@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
     [System.Serializable]
     public class ChanManager : MonoBehaviour
@@ -26,5 +27,9 @@ using UnityEngine;
         public void ChooseCharacter(string characterName)
         {
             ChanType = characterName;
+        }
+        public void ChangeScene()
+        {
+            SceneManager.LoadScene("TrainingScene");
         }
     }

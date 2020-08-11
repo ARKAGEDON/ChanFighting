@@ -11,5 +11,7 @@
 {"key" :"[Tips]","value":"Pour jouer avec vos amis, un doit héberger la partie, l'autre doit la rejoindre. L'ip est localhost si vous êtes sur le même réseau, sinon c'est l'ip de la personne qui héberge."},
 {"key" :"[Back]","value":"RETOUR"},
 {"key" :"[ChooseCharacter]","value":"CHOISISSEZ VOTRE PERSONNAGE"},
-{"key" :"[BackToMainMenu]","value":"RETOUR AU MENU PRINCIPAL"}
+{"key" :"[BackToMainMenu]","value":"RETOUR AU MENU PRINCIPAL"},
+{"key" :"[Play]","value":"JOUER"},
+{"key" :"[TipsTraining]","value":"Il s'agit d'un mode de jeu solo pour s'entrainer avec les chans et tester les compétences et les méchaniques du jeu."}
 ]}
