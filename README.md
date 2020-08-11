@@ -8,20 +8,30 @@ This is a fighting game between the chans of known software and game.
     - *UnityChan*: She is the chan of the software Unity3D [Unity3D](https://unity.com/fr)
     - *PrototypeChan*: She is the prototype chan of the software Mixamo [Mixamo](https://www.mixamo.com/#/)
 
-Some Screen of the Game
+Screenshot of the Game
 ------------
 
 - *Main menu*: 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of MainMenu](https://zupimages.net/viewer.php?id=20/33/axbz.jpg)
+
+- *Versus Menu*
+![Image of VersusMenu](https://zupimages.net/viewer.php?id=20/33/9eie.jpg)
+
+- *Choose Character Menu*
+![Image of Choose Character Menu](https://zupimages.net/viewer.php?id=20/33/12mj.jpg)
+
+- *In Game*
+![Image of In Game](https://zupimages.net/viewer.php?id=20/33/jg99.jpg)
 
 Future addition
 --------------
 
+- *Add a map for fight area*
+- *Add a training room for playing solo*
+- *Add some competence*
 
-How to play?
+How to play? & Installation
 --------------
 
-
-Installation
---------------
-
+- *It's very easy to download, just go on release and download the latest version of the game for your os*
+- *After go in versus, host the game if you want to play with a friend or if your friends host the game enter his ip to connect to his game*

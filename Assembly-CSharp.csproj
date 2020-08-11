@@ -58,12 +58,15 @@
      <Compile Include="Assets\Scripts\HitCollider.cs" />
      <Compile Include="Assets\Scripts\Info.cs" />
      <Compile Include="Assets\Scripts\Load.cs" />
+     <Compile Include="Assets\Scripts\Localization\LocalizationManager.cs" />
+     <Compile Include="Assets\Scripts\Localization\LocalizationText.cs" />
      <Compile Include="Assets\Scripts\Locking.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\MoveBehaviour.cs" />
      <Compile Include="Assets\Scripts\NetworkHUD.cs" />
      <Compile Include="Assets\Scripts\NetworkManagerLobbyChan.cs" />
      <Compile Include="Assets\Scripts\NetworkRoomPlayerChan.cs" />
+     <Compile Include="Assets\Scripts\ScriptableObject\LocalizationSystem.cs" />
      <Compile Include="Assets\Scripts\ThirdPersonOrbitCamBasic.cs" />
      <Compile Include="Assets\Scripts\comboHits.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />

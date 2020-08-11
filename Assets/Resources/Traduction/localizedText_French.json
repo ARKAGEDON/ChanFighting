@@ -1,0 +1,15 @@
+﻿{ "items":[
+{"key" :"[PressX]","value":"Appuyer sur X pour jouer"},
+{"key" :"[ChooseMode]","value":"Choisissez votre mode de jeu"},
+{"key" :"[VersusBtn]","value":"VERSUS"},
+{"key" :"[TrainingBtn]","value":"ENTRAINEMENT"},
+{"key" :"[OptionsBtn]","value":"OPTIONS"},
+{"key" :"[LeaveBtn]","value":"QUITTER"},
+{"key" :"[Host]","value":"Héberger"},
+{"key" :"[Join]","value":"Rejoindre"},
+{"key" :"[ServerIp]","value":"IP du serveur…"},
+{"key" :"[Tips]","value":"Pour jouer avec vos amis, un doit héberger la partie, l'autre doit la rejoindre. L'ip est localhost si vous êtes sur le même réseau, sinon c'est l'ip de la personne qui héberge."},
+{"key" :"[Back]","value":"RETOUR"},
+{"key" :"[ChooseCharacter]","value":"CHOISISSEZ VOTRE PERSONNAGE"},
+{"key" :"[BackToMainMenu]","value":"RETOUR AU MENU PRINCIPAL"}
+]}
