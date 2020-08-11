@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 48d57bc5f59db1646ad0bbfb9462f5be
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -6171352112240590120
+    second: Defense_Shield
+  - first:
+      74: -2823569624004322039
+    second: Draw Weapon HighLeft
+  - first:
+      74: 1237722200539765313
+    second: Draw Weapon HighRight
+  - first:
+      74: 9142394549545752980
+    second: Draw Weapon LowLeft
+  - first:
+      74: 157229013637371088
+    second: Draw Weapon LowRight
+  - first:
+      74: -7595240646667937478
+    second: WeakAttack_KickLeft
+  - first:
+      74: -2154203659297918461
+    second: OpenChest
+  - first:
+      74: 5498883287529265065
+    second: Hit Big Back
+  - first:
+      74: -3696145252328498646
+    second: Hit Big Front
+  - first:
+      74: 6867165791755587446
+    second: Hit Big Left
+  - first:
+      74: 3569737808348421936
+    second: Hit Big Right
+  - first:
+      74: -6676956158992960340
+    second: Hit Small Back
+  - first:
+      74: -6613389624527736061
+    second: Hit Small Front
+  - first:
+      74: -1385699388935594399
+    second: Hit Small Left
+  - first:
+      74: 8223908790087904030
+    second: Hit Small Right
+  - first:
+      74: 8055748028737770992
+    second: Defense_Unarmed
+  - first:
+      74: 7404794520072676921
+    second: Defense_HoldingSword
+  - first:
+      74: 4550749853359581085
+    second: Recoil_Hard
+  - first:
+      74: 2072139031814666483
+    second: Recoil_Low
+  - first:
+      74: 4297419489272039589
+    second: Defense_Unarmed_Recoil
+  - first:
+      74: 1933847345978427074
+    second: StrongAttack_PunchA
+  - first:
+      74: -4202925499161594011
+    second: StrongAttack_PunchB
+  - first:
+      74: -4543735985920548086
+    second: StrongAttack_PunchC
+  - first:
+      74: 7441136961741045726
+    second: WeakAttack_SwordA
+  - first:
+      74: 3420139423035999526
+    second: WeakAttack_SwordB
+  - first:
+      74: -5514825496920822195
+    second: WeakAttack_SwordC
+  - first:
+      74: -718681307903140134
+    second: WeakAttack_PunchLeft
+  - first:
+      74: 211142808491299303
+    second: WeakAttack_PunchRight
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

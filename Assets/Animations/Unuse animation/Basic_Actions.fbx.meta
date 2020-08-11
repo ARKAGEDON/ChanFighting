@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: f9c82f302ab14a84f9ae8a8bed12b759
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -7254038708117199699
+    second: roll
+  - first:
+      74: 2925383023609987434
+    second: StepUp
+  - first:
+      74: -1343086146854073801
+    second: ClimbUp
+  - first:
+      74: 6258532812806792686
+    second: JumpOver
+  - first:
+      74: 8989353061566484238
+    second: Ladder_TopExit
+  - first:
+      74: -5720691417284125502
+    second: Ladder_TopEnter_Invert
+  - first:
+      74: -3857779355117794258
+    second: Ladder_EnterBottom
+  - first:
+      74: 6199164943000859732
+    second: Ladder_Climb
+  - first:
+      74: -10655523849689032
+    second: Pick_Down
+  - first:
+      74: 3459426012358379856
+    second: Pick_Up
+  - first:
+      74: -5939361346743829311
+    second: Pick_Mid
+  - first:
+      74: 5182003987445940
+    second: SlideForwardDown
+  - first:
+      74: -1500354584072067147
+    second: Falling
+  - first:
+      74: 2160802566013748013
+    second: JumpMove
+  - first:
+      74: 5539831331247536789
+    second: Jump
+  - first:
+      74: -7596169748306772012
+    second: LandSoft
+  - first:
+      74: -2842568386689523826
+    second: hard_landing
+  - first:
+      74: -5102809352579513656
+    second: fromBack_v1.1
+  - first:
+      74: 3848462656460415735
+    second: fromBelly_v1.1
+  - first:
+      74: 4348485665485846014
+    second: Death
+  - first:
+      74: 5614838411024627618
+    second: Pass_Card
+  - first:
+      74: -5682039335235983357
+    second: Press_Lever
+  - first:
+      74: 8962695454909515136
+    second: Put_Card
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
